@@ -14,3 +14,5 @@
   - A Content Sharing Platform for Bloggers written in FullStack ROR.
 - A Chat Application: [Trio](https://github.com/Bheemesh1706/Trio-Frontend)
   - This a Chat Application that uses React as its frontend and Ruby on Rails for its Backend
+- WebScrapper And Bots: [Scrappy](https://github.com/Bheemesh1706/Web-Scappers-And-Bots)
+   - This Repo consist of webscrapper and bots for dedicated purposes like gmail's email parsing,wiki content scrapper etc.
