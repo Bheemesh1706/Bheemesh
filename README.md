@@ -9,7 +9,7 @@
 ## Top Projects
 
 - Web3 project: [Tapper](https://github.com/Bheemesh1706/Tapper)
-  - A SAAS Platform to connect your Metamask wallet to keep a track on your Cryptocoins and REC-20 tokens.
+  - A SAAS Platform to connect your Metamask wallet to keep a track on your Cryptocoins and ERC-20 tokens.
 - My MERN +Context API+ JWT Authentication : [Custom E-Commerse Website](https://github.com/Bheemesh1706/E-Commerce-FrontEnd)
   - It is a Custom E-Commerse Website application built for web.
 - A Chat Application: [Trio](https://github.com/Bheemesh1706/Trio-Frontend)
