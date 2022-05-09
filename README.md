@@ -8,11 +8,13 @@
 
 ## Top Projects
 
+- Web3 project: [Tapper](https://github.com/Bheemesh1706/Tapper)
+  - A SAAS Platform to connect your Metamask wallet to keep a track on your Cryptocoins and REC-20 tokens.
 - My MERN +Context API+ JWT Authentication : [Custom E-Commerse Website](https://github.com/Bheemesh1706/E-Commerce-FrontEnd)
   - It is a Custom E-Commerse Website application built for web.
-- Blogging Website project: [Alpha-Blog](https://github.com/Bheemesh1706/Alpha-Blog)
-  - A Content Sharing Platform for Bloggers written in FullStack ROR.
 - A Chat Application: [Trio](https://github.com/Bheemesh1706/Trio-Frontend)
   - This a Chat Application that uses React as its frontend and Ruby on Rails for its Backend
+- Blogging Website project: [Alpha-Blog](https://github.com/Bheemesh1706/Alpha-Blog)
+   - A Content Sharing Platform for Bloggers written in FullStack ROR.
 - WebScrapper And Bots: [Scrappy](https://github.com/Bheemesh1706/Web-Scappers-And-Bots)
    - This Repo consist of webscrapper and bots for dedicated purposes like gmail's email parsing,wiki content scrapper etc.
