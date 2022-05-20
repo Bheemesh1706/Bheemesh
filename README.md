@@ -10,6 +10,8 @@
 
 - Web3 project: [Tapper](https://github.com/Bheemesh1706/Tapper)
   - A SAAS Platform to connect your Metamask wallet to keep a track on your Cryptocoins and ERC-20 tokens.
+- Emotional Interface: [Scrappy](https://github.com/Bheemesh1706/Emotion-Interface)
+   - An prototype for SAAS product that used to identify human emotional state during video calls in applications like Google Meet ,Zoom ,Microsoft Teams etc.
 - My MERN +Context API+ JWT Authentication : [Custom E-Commerse Website](https://github.com/Bheemesh1706/E-Commerce-FrontEnd)
   - It is a Custom E-Commerse Website application built for web.
 - A Chat Application: [Trio](https://github.com/Bheemesh1706/Trio-Frontend)
